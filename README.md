@@ -20,4 +20,3 @@ Packages used include:
 - ggplot2
 - lme4
 - lmerTest
-- 
